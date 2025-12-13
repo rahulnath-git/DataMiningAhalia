@@ -1,4 +1,83 @@
-# CST466 – Data Mining  
+# Data Mining & Warehousing - Lesson Plan
+
+This repository contains the **lesson plan for the Data Mining & Data Warehousing course**. The plan outlines **40 lectures**, covering fundamental concepts, algorithms, and techniques in data mining, data warehousing, web mining, and text mining.
+
+---
+
+## Course Overview
+
+- **Course Name:** Data Mining & Data Warehousing  
+- **Total Lectures:** 40  
+- **Objective:** To provide students with a comprehensive understanding of data mining techniques, data warehouse design, and applications in modern data analysis.
+
+---
+
+## Lecture Schedule
+
+| Lecture No | Topic | Actual Date of Lecture |
+|------------|-------|----------------------|
+| 1 | Course overview, applications of data mining, introduction to data warehouses |  |
+| 2 | Characteristics of data warehouses, OLTP vs OLAP |  |
+| 3 | Multidimensional data model, facts and dimensions |  |
+| 4 | Warehouse schemas: Star and Snowflake |  |
+| 5 | OLAP operations with examples |  |
+| 6 | Data warehouse architecture (three-tier) |  |
+| 7 | KDD process vs data mining, data mining tasks |  |
+| 8 | Data mining system architecture, functionalities and issues |  |
+| 9 | Need for preprocessing, data quality issues |  |
+| 10 | Data cleaning: missing values and noisy data handling |  |
+| 11 | Data integration and data transformation |  |
+| 12 | Data reduction: data cube aggregation |  |
+| 13 | Attribute subset selection techniques |  |
+| 14 | Dimensionality reduction and PCA (conceptual) |  |
+| 15 | Numerosity reduction techniques |  |
+| 16 | Discretization and concept hierarchy generation |  |
+| 17 | Introduction to classification, decision tree basics |  |
+| 18 | Entropy and Information Gain numerical problems |  |
+| 19 | Gini index and comparison with Information Gain |  |
+| 20 | ID3 algorithm construction and examples |  |
+| 21 | SLIQ algorithm and decision tree optimization |  |
+| 22 | Classification evaluation measures |  |
+| 23 | Introduction to clustering and clustering paradigms |  |
+| 24 | Partitioning methods: PAM algorithm |  |
+| 25 | Density-based clustering |  |
+| 26 | Categorical clustering: ROCK algorithm |  |
+| 27 | Introduction to association rules, support and confidence |  |
+| 28 | Apriori algorithm candidate generation |  |
+| 29 | Apriori pruning and numerical examples |  |
+| 30 | Partition-based association rule mining |  |
+| 31 | Pincer Search algorithm |  |
+| 32 | Dynamic Itemset Counting algorithm |  |
+| 33 | FP-tree construction |  |
+| 34 | FP-Growth algorithm and comparison |  |
+| 35 | Introduction to web mining and web content mining |  |
+| 36 | Web structure mining: PageRank algorithm |  |
+| 37 | HITS (CLEVER) algorithm |  |
+| 38 | Web usage mining: preprocessing and pattern discovery |  |
+| 39 | Text mining and information retrieval basics |  |
+| 40 | Text retrieval methods, indexing and query processing |  |
+
+---
+
+## Learning Outcomes
+
+By the end of this course, students will be able to:
+
+- Understand the concepts of **data warehousing**, **OLAP**, and **data preprocessing**.  
+- Implement **classification and clustering algorithms**.  
+- Apply **association rule mining techniques** to datasets.  
+- Understand **web mining** and **text mining** methods for extracting knowledge from unstructured data.  
+- Evaluate and optimize **data mining models** using standard performance measures.  
+
+---
+
+## Recommended Tools and Software
+
+- **Programming Language:** Python (with libraries such as pandas, numpy, scikit-learn)  
+- **Database:** MySQL / PostgreSQL  
+- **Data Mining Tools:** Weka, Orange, RapidMiner (optional)  
+
+
 ## Assignments & Tutorials (KTU – B.Tech CSE)
 
 This repository contains **Assignments and Tutorials** designed for the **CST466 – Data Mining** course under **APJ Abdul Kalam Technological University (KTU)**.  
