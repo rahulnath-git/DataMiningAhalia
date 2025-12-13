@@ -1,0 +1,144 @@
+# 📘 CST466 – Data Mining  
+## KTU Question Bank (100 Questions)
+
+This repository contains a **KTU-standard question bank** for the **CST466 – Data Mining** course (B.Tech CSE).  
+The questions are designed in line with **KTU internal assessment and end semester examination patterns**, covering **all five modules**.
+
+---
+
+## 📌 Course Details
+
+- **Course Code:** CST466  
+- **Course Name:** Data Mining  
+- **University:** APJ Abdul Kalam Technological University (KTU)  
+- **Programme:** B.Tech Computer Science & Engineering  
+
+---
+
+## 📂 Question Bank Structure
+
+The question bank consists of **100 questions**, categorized based on **difficulty level** and **mark scheme** typically followed by KTU.
+
+| Category | Question Numbers | Marks |
+|--------|------------------|-------|
+| Easy   | 1 – 40           | 2–3 Marks |
+| Medium | 41 – 75          | 5–7 Marks |
+| Hard   | 76 – 100         | 10–14 Marks / Numerical |
+
+---
+
+## 🟢 EASY QUESTIONS  
+*(Short Answer – 2 to 3 Marks)*
+
+1. Define Data Mining.  
+2. What is a Data Warehouse?  
+3. List any two characteristics of a data warehouse.  
+4. Define OLAP.  
+5. List any two OLAP operations.  
+6. What is Knowledge Discovery in Databases (KDD)?  
+7. Differentiate between KDD and Data Mining.  
+8. Define entropy.  
+9. What is Information Gain?  
+10. Define Gini Index.  
+11. What is data preprocessing?  
+12. List any two data cleaning techniques.  
+13. What is data normalization?  
+14. Define discretization.  
+15. What is a decision tree?  
+16. What is classification in data mining?  
+17. Define clustering.  
+18. What is PAM?  
+19. Define DBSCAN.  
+20. What is ROCK clustering?  
+21. Define support in association rule mining.  
+22. Define confidence.  
+23. What is Apriori property?  
+24. What is FP-tree?  
+25. Define frequent itemset.  
+26. What is web mining?  
+27. What is web content mining?  
+28. What is web structure mining?  
+29. What is web usage mining?  
+30. Define PageRank.  
+31. What is HITS algorithm?  
+32. Define text mining.  
+33. What is information retrieval?  
+34. Define precision.  
+35. Define recall.  
+36. What is F1-score?  
+37. What is metadata?  
+38. Define star schema.  
+39. Define snowflake schema.  
+40. What is OLTP?
+
+---
+
+## 🟡 MEDIUM QUESTIONS  
+*(Descriptive – 5 to 7 Marks)*
+
+41. Explain the differences between OLTP and OLAP systems.  
+42. Explain the multidimensional data model with an example.  
+43. Describe star schema and snowflake schema.  
+44. Explain OLAP operations with examples.  
+45. Explain the three-tier architecture of a data warehouse.  
+46. Explain data mining functionalities with examples.  
+47. Describe data quality issues in data preprocessing.  
+48. Explain methods for handling missing values.  
+49. Explain data reduction techniques.  
+50. Explain attribute subset selection.  
+51. Explain the decision tree construction principle.  
+52. Explain entropy and Information Gain.  
+53. Compare Information Gain and Gini Index.  
+54. Explain the ID3 decision tree algorithm.  
+55. Explain the SLIQ algorithm.  
+56. Describe classification evaluation measures.  
+57. Explain clustering paradigms.  
+58. Explain the PAM clustering algorithm.  
+59. Explain DBSCAN clustering with advantages.  
+60. Explain ROCK clustering.  
+61. Explain association rule mining with examples.  
+62. Explain the Apriori algorithm.  
+63. Explain the Partition algorithm for association rule mining.  
+64. Explain the Pincer Search algorithm.  
+65. Explain Dynamic Itemset Counting algorithm.  
+66. Explain FP-Growth algorithm.  
+67. Compare Apriori and FP-Growth algorithms.  
+68. Explain web content mining techniques.  
+69. Explain web structure mining.  
+70. Explain PageRank algorithm.  
+71. Explain HITS (CLEVER) algorithm.  
+72. Explain web usage mining process.  
+73. Explain text preprocessing steps.  
+74. Explain text indexing techniques.  
+75. Explain query processing in text retrieval.
+
+---
+
+## 🔴 HARD QUESTIONS  
+*(Long Answer / Numerical – 10 to 14 Marks)*
+
+76. Explain the complete KDD process with a neat diagram.  
+77. Discuss data mining issues related to mining methodology and data diversity.  
+78. Explain data preprocessing techniques in detail.  
+79. Illustrate decision tree construction using ID3 with a suitable dataset.  
+80. Compute Information Gain for a given dataset and identify the root node.  
+81. Compute Gini Index for two attributes and select the best split.  
+82. Compare ID3 and SLIQ algorithms in detail.  
+83. Explain clustering paradigms and compare partitioning and density-based clustering.  
+84. Illustrate PAM clustering with a numerical example.  
+85. Explain DBSCAN with a numerical example showing noise detection.  
+86. Explain ROCK algorithm with an example.  
+87. Explain association rule mining with support-confidence framework.  
+88. Illustrate Apriori algorithm with a transaction dataset.  
+89. Explain Partition and Pincer Search algorithms with examples.  
+90. Explain FP-tree construction and FP-Growth with an example.  
+91. Compare Apriori, FP-Growth and Pincer Search algorithms.  
+92. Explain web mining architecture and applications.  
+93. Explain PageRank algorithm with a numerical example.  
+94. Explain HITS algorithm with hub and authority computation.  
+95. Explain web usage mining and pattern discovery techniques.  
+96. Explain text mining architecture.  
+97. Explain precision, recall and F1-score with numerical examples.  
+98. Explain text retrieval methods with suitable diagrams.  
+99. Discuss challenges in text mining and information retrieval.  
+100. Explain advanced applications of data mining in real-world scenarios.
