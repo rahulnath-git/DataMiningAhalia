@@ -1,15 +1,8 @@
 # Data Mining & Warehousing - Lesson Plan
 
-This repository contains the **lesson plan for the Data Mining & Data Warehousing course**. The plan outlines **40 lectures**, covering fundamental concepts, algorithms, and techniques in data mining, data warehousing, web mining, and text mining.
 
----
 
 ## Course Overview
-
-- **Course Name:** Data Mining & Data Warehousing  
-- **Total Lectures:** 40  
-- **Objective:** To provide students with a comprehensive understanding of data mining techniques, data warehouse design, and applications in modern data analysis.
-
 ---
 
 ## Lecture Schedule
@@ -69,36 +62,17 @@ By the end of this course, students will be able to:
 - Understand **web mining** and **text mining** methods for extracting knowledge from unstructured data.  
 - Evaluate and optimize **data mining models** using standard performance measures.  
 
----
-
-## Recommended Tools and Software
-
-- **Programming Language:** Python (with libraries such as pandas, numpy, scikit-learn)  
-- **Database:** MySQL / PostgreSQL  
-- **Data Mining Tools:** Weka, Orange, RapidMiner (optional)  
+---  
 
 
-## Assignments & Tutorials (KTU – B.Tech CSE)
+## Assignments & Tutorials 
 
-This repository contains **Assignments and Tutorials** designed for the **CST466 – Data Mining** course under **APJ Abdul Kalam Technological University (KTU)**.  
-The content aligns with **course outcomes (COs)**, **internal assessment standards**, and **practical exposure using Python**.
-
----
-
-##  Course Information
-
-- **Course Code:** CST466  
-- **Course Name:** Data Mining  
-- **Programme:** B.Tech Computer Science & Engineering  
-- **University:** APJ Abdul Kalam Technological University (KTU)
-
----
 
 #  ASSIGNMENTS
 
 ---
 
-## 🔹 ASSIGNMENT 1  
+## ASSIGNMENT 1  
 ### **Title:** Data Preprocessing and Decision Tree Classification using Python
 
 ###  Objective
@@ -167,7 +141,7 @@ Create a **CSV dataset with 100 realistic records** containing the following att
 
 ---
 
-### 🛠 Guidelines
+### Guidelines
 - Use any programming language *(Python preferred)*  
 - Code must be well-documented  
 - Upload source code and dataset to GitHub
